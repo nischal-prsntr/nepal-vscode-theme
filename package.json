@@ -2,7 +2,8 @@
   "name": "nepal-theme",
   "displayName": "Nepal Theme",
   "description": "A beautiful VS Code theme inspired by the colors and culture of Nepal",
-  "version": "1.0.0",
+  "icon": "nepal-theme-icon.png",
+  "version": "1.0.1",
   "publisher": "nischdev",
   "engines": {
     "vscode": "^1.74.0"
@@ -19,6 +20,12 @@
     "dark theme",
     "colorful"
   ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/nischal-prsntr/nepal-vscode-theme.git"
+},
+"homepage": "https://github.com/nischalniroula/nepal-vscode-theme#readme"
+  ,
   "contributes": {
     "themes": [
       {

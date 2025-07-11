@@ -32,20 +32,6 @@ A beautiful VS Code theme inspired by the vibrant colors and rich culture of Nep
 3. Search for "Nepal Theme"
 4. Click "Install"
 
-### Method 2: Manual Installation
-1. Download or clone this repository
-2. Copy the `nepal-vscode-theme` folder to your VS Code extensions directory:
-   - **Windows**: `%USERPROFILE%\.vscode\extensions\`
-   - **macOS**: `~/.vscode/extensions/`
-   - **Linux**: `~/.vscode/extensions/`
-3. Restart VS Code
-
-### Method 3: Development Installation
-1. Clone this repository
-2. Open the folder in VS Code
-3. Press `F5` to launch a new Extension Development Host window
-4. The theme will be available in the new window
-
 ## Usage
 
 1. Open VS Code
@@ -68,23 +54,13 @@ This theme provides syntax highlighting for:
 - PHP
 - And many more!
 
-## Contributing
 
-Feel free to contribute to this theme! Here's how:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## Issues & Suggestions
 
-If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository.
+If you find any issues or have suggestions for improvements, please send me an email @ nisch.dev@gmail.com
 
-## License
 
-This theme is released under the [MIT License](LICENSE).
 
 ## Inspiration
 
@@ -96,6 +72,8 @@ This theme is dedicated to the beautiful country of Nepal 🇳🇵 and its rich 
 
 ---
 
-Made with ❤️ for the Nepali developer community and beyond!
+Made with ❤️ by Nischal Niroula
+
+For the Nepali developer community and beyond!
 
 **Enjoy coding with a touch of Nepal!** 🏔️✨
